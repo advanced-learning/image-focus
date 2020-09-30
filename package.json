@@ -29,8 +29,7 @@
     "start": "tsdx watch",
     "build": "tsdx build --format cjs,esm,umd",
     "test": "tsdx test --passWithNoTests",
-    "lint": "tsdx lint",
-    "prepare": "tsdx build --format cjs,esm,umd"
+    "lint": "tsdx lint"
   },
   "peerDependencies": {},
   "husky": {
